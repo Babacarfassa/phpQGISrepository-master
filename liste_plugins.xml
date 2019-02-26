@@ -1,0 +1,11 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<plugins>
+	<pyqgis_plugin version="0.1" name="Mes_Plungins_developpes" >
+		<description>Mon depot des Plugins</description>
+		<homepage>https://github.com/Babacarfassa/</homepage>
+		<file_name>Decoupe_SBO</file_name>
+		<author_name>Babacar FASSA</author_name>
+		<download_url>https://github.com/Babacarfassa/phpQGISrepository-master/tree/master/downloads/Decoupe_SBO.zip </download_url>
+		<qgis_minimum_version>1.6.0</qgis_minimum_version>
+	</pyqgis_plugin>
+</plugins>
